@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SdWHNuFRqo8zHxQpxZ7WEvCzrMrvz1+rBCEq1G+CENwCrbSvTHQhgip73tPFhLK+VR0OKcSmBxJYa2G1QKbFaw==",
+  "dgSpecHash": "9EvsnTRlbvOhNslO6Rs0HPbnSH2TijQnCbtm5IqvosOYYvaJ3nrXVqC1LxAzC4xsJgmy6RhxwLUgevrt6CUq3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shado\\Documents\\BogoSort\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\shado\\Documents\\BogoSort\\ConsoleApp1\\BogoSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\bin\Debug\net6.0\BogoSort.exe
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\bin\Debug\net6.0\BogoSort.deps.json
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\bin\Debug\net6.0\BogoSort.runtimeconfig.json
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\bin\Debug\net6.0\BogoSort.dll
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\bin\Debug\net6.0\BogoSort.pdb
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\obj\Debug\net6.0\BogoSort.csproj.AssemblyReference.cache
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\obj\Debug\net6.0\BogoSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\obj\Debug\net6.0\BogoSort.AssemblyInfoInputs.cache
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\obj\Debug\net6.0\BogoSort.AssemblyInfo.cs
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\obj\Debug\net6.0\BogoSort.csproj.CoreCompileInputs.cache
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\obj\Debug\net6.0\BogoSort.dll
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\obj\Debug\net6.0\refint\BogoSort.dll
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\obj\Debug\net6.0\BogoSort.pdb
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\obj\Debug\net6.0\BogoSort.genruntimeconfig.cache
+C:\Users\shado\Documents\BogoSort\ConsoleApp1\obj\Debug\net6.0\ref\BogoSort.dll

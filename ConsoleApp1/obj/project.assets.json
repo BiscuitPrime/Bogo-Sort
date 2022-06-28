@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shado\\Documents\\BogoSort\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\shado\\Documents\\BogoSort\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\shado\\Documents\\BogoSort\\ConsoleApp1\\BogoSort.csproj",
+      "projectName": "BogoSort",
+      "projectPath": "C:\\Users\\shado\\Documents\\BogoSort\\ConsoleApp1\\BogoSort.csproj",
       "packagesPath": "C:\\Users\\shado\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\shado\\Documents\\BogoSort\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
